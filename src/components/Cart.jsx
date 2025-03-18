@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function Login(){
+export default function Cart(){
     return(
-        <div>Login</div>
+        <div>Cart</div>
     )
 }
