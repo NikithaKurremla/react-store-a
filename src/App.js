@@ -14,7 +14,7 @@ function App() {
         <Route path="products" element={<Products />}></Route>
         <Route path="login" element={<Login />}></Route>
       </Routes>
-      <Footer />
+      <Footers/>
     </BrowserRouter>
   </div>
   );
